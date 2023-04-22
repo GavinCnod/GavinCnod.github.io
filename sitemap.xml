@@ -31,7 +31,7 @@
 
   <url>
     <loc>https://www.mindrose.xyz/</loc>
-    <lastmod>2023-04-15</lastmod>
+    <lastmod>2023-04-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,14 +39,14 @@
   
   <url>
     <loc>https://www.mindrose.xyz/tags/Mendix/</loc>
-    <lastmod>2023-04-15</lastmod>
+    <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.mindrose.xyz/tags/Test/</loc>
-    <lastmod>2023-04-15</lastmod>
+    <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -55,14 +55,14 @@
   
   <url>
     <loc>https://www.mindrose.xyz/categories/Blog/</loc>
-    <lastmod>2023-04-15</lastmod>
+    <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.mindrose.xyz/categories/News/</loc>
-    <lastmod>2023-04-15</lastmod>
+    <lastmod>2023-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
